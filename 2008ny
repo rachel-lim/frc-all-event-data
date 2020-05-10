@@ -1,0 +1,4719 @@
+[
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 58, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc348", 
+          "frc637", 
+          "frc375"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 74, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc41", 
+          "frc555", 
+          "frc1989"
+        ]
+      }
+    }, 
+    "comp_level": "f", 
+    "event_key": "2008ny", 
+    "key": "2008ny_f1m1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "J7CXsc1ABvE", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_f1m1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 54, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc348", 
+          "frc375", 
+          "frc637"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 96, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1989", 
+          "frc555", 
+          "frc41"
+        ]
+      }
+    }, 
+    "comp_level": "f", 
+    "event_key": "2008ny", 
+    "key": "2008ny_f1m2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "OGgXYLMD7VQ", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_f1m2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1230", 
+          "frc1155", 
+          "frc1880"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 70, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1989", 
+          "frc555", 
+          "frc41"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qf1m1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "NPoOtuu0Vxk", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qf1m1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 30, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1880", 
+          "frc1155", 
+          "frc1230"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 94, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc555", 
+          "frc41", 
+          "frc1989"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qf1m2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "4eSwutTwYCU", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qf1m2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1155", 
+          "frc1230", 
+          "frc1880"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 70, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc555", 
+          "frc41", 
+          "frc1989"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qf1m3", 
+    "match_number": 3, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 28, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc116", 
+          "frc759", 
+          "frc1302"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 74, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc229", 
+          "frc395", 
+          "frc271"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qf2m1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 2, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "drR6YGtNMxA", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qf2m1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 58, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1302", 
+          "frc116", 
+          "frc759"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 84, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc229", 
+          "frc271", 
+          "frc395"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qf2m2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 2, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "M_S5aXop2PY", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qf2m2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 28, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc369", 
+          "frc1594", 
+          "frc1517"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 90, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc348", 
+          "frc375", 
+          "frc637"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qf3m1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 3, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "kMU7kG7PK9g", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "jk4BmnVQ140", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qf3m1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 28, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc369", 
+          "frc1594", 
+          "frc1517"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 82, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc637", 
+          "frc348", 
+          "frc375"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qf3m2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 3, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "ydNufcr1lE0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qf3m2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 54, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2265", 
+          "frc571", 
+          "frc56"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 58, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1403", 
+          "frc694", 
+          "frc2344"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qf4m1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 4, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "sOM4klb6Vdo", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qf4m1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 70, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2265", 
+          "frc571", 
+          "frc56"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 52, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1403", 
+          "frc2344", 
+          "frc694"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qf4m2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 4, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "fecklMzE2uk", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qf4m2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 48, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc571", 
+          "frc56", 
+          "frc2265"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 82, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc694", 
+          "frc2344", 
+          "frc1403"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qf4m3", 
+    "match_number": 3, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 4, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "BzJGOcO9OWk", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "LgbZC3Ih8zw", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qf4m3.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 24, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc369", 
+          "frc2579", 
+          "frc354"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 52, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1660", 
+          "frc271", 
+          "frc41"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "W8YYtBbD49s", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "xa2vHSPkSlM", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 54, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc640", 
+          "frc1396", 
+          "frc1520"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 2, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2577", 
+          "frc2601", 
+          "frc1796"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm10", 
+    "match_number": 10, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "64Fpyo58Yao", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm10.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 20, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2596", 
+          "frc1600", 
+          "frc348"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1698", 
+          "frc1880", 
+          "frc1211"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm11", 
+    "match_number": 11, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "jvSeWEmfM-E", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "VCsD5X6lHRM", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm11.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 26, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc354", 
+          "frc1635", 
+          "frc2070"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 46, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc56", 
+          "frc271", 
+          "frc229"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm12", 
+    "match_number": 12, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "EEZOQvFc19U", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm12.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 58, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc375", 
+          "frc371", 
+          "frc1517"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 54, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc421", 
+          "frc335", 
+          "frc369"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm13", 
+    "match_number": 13, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "lxffRjb2qzo", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm13.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 70, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc41", 
+          "frc1403", 
+          "frc550"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 20, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc334", 
+          "frc637", 
+          "frc333"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm14", 
+    "match_number": 14, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "hfZUJxcfQ1s", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm14.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc743", 
+          "frc806", 
+          "frc116"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 16, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc522", 
+          "frc1602", 
+          "frc2203"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm15", 
+    "match_number": 15, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "DYBBwSnoc6c", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm15.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 26, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1594", 
+          "frc759", 
+          "frc380"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 24, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2524", 
+          "frc1660", 
+          "frc1237"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm16", 
+    "match_number": 16, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "sni1jY304cY", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm16.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 60, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2344", 
+          "frc1807", 
+          "frc1230"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 42, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc571", 
+          "frc1340", 
+          "frc395"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm17", 
+    "match_number": 17, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "v8KPsLetrms", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm17.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 42, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1862", 
+          "frc1396", 
+          "frc1155"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 36, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1929", 
+          "frc1302", 
+          "frc2265"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm18", 
+    "match_number": 18, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "4yrchoHNfiU", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "Kal1p6rxcvw", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm18.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2554", 
+          "frc640", 
+          "frc1600"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 30, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2596", 
+          "frc1989", 
+          "frc2458"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm19", 
+    "match_number": 19, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "YMu1TtAhcis", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm19.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 48, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc550", 
+          "frc375", 
+          "frc229"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc348", 
+          "frc1602", 
+          "frc1594"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "tKp-CfKjHME", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "AlwrqDzYzIs", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 12, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc694", 
+          "frc2274", 
+          "frc1520"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1698", 
+          "frc2579", 
+          "frc2205"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm20", 
+    "match_number": 20, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "t624DAuF1x8", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm20.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 36, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1880", 
+          "frc555", 
+          "frc2577"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 10, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1796", 
+          "frc2573", 
+          "frc1626"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm21", 
+    "match_number": 21, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "D8CKw3SklSk", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm21.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 12, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2601", 
+          "frc371", 
+          "frc334"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 26, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2681", 
+          "frc348", 
+          "frc1635"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm22", 
+    "match_number": 22, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "cosy1Ookxrc", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm22.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 46, 
+        "surrogate_team_keys": [
+          "frc335"
+        ], 
+        "team_keys": [
+          "frc335", 
+          "frc375", 
+          "frc1211"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 36, 
+        "surrogate_team_keys": [
+          "frc522"
+        ], 
+        "team_keys": [
+          "frc522", 
+          "frc550", 
+          "frc271"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm23", 
+    "match_number": 23, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "xloPkj_Q8fg", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm23.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [
+          "frc759"
+        ], 
+        "team_keys": [
+          "frc759", 
+          "frc2203", 
+          "frc333"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 38, 
+        "surrogate_team_keys": [
+          "frc56"
+        ], 
+        "team_keys": [
+          "frc56", 
+          "frc1594", 
+          "frc369"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm24", 
+    "match_number": 24, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "c-7Oz1wIJxc", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm24.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 42, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc421", 
+          "frc806", 
+          "frc395"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 46, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc116", 
+          "frc1237", 
+          "frc229"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm25", 
+    "match_number": 25, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "qd8iPV0sbsw", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm25.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 10, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1396", 
+          "frc1403", 
+          "frc354"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 76, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1230", 
+          "frc1155", 
+          "frc1602"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm26", 
+    "match_number": 26, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "sDDFbmSH-Xc", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm26.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 40, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1517", 
+          "frc1989", 
+          "frc1302"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 14, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1340", 
+          "frc380", 
+          "frc41"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm27", 
+    "match_number": 27, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "axkoLMoYYO0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm27.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 40, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1929", 
+          "frc2274", 
+          "frc1660"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 38, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc571", 
+          "frc1600", 
+          "frc637"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm28", 
+    "match_number": 28, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "YBt_1Htp13Y", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm28.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc694", 
+          "frc2554", 
+          "frc1698"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 12, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2573", 
+          "frc640", 
+          "frc2344"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm29", 
+    "match_number": 29, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "FmFEMesUhDw", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm29.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 50, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc637", 
+          "frc2265", 
+          "frc1237"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 30, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1211", 
+          "frc56", 
+          "frc1517"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm3", 
+    "match_number": 3, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "JICWmKqL6Tg", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm3.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 10, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2070", 
+          "frc1807", 
+          "frc1862"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 24, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc555", 
+          "frc1520", 
+          "frc1796"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm30", 
+    "match_number": 30, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "IeNYk-ahVs4", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm30.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 52, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2579", 
+          "frc2601", 
+          "frc1626"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 16, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2205", 
+          "frc2596", 
+          "frc743"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm31", 
+    "match_number": 31, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "SfX4c0CS1U0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm31.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 6, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2458", 
+          "frc2524", 
+          "frc2577"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 40, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2265", 
+          "frc2681", 
+          "frc1880"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm32", 
+    "match_number": 32, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "3RxxhIFlaVA", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm32.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 64, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc759", 
+          "frc116", 
+          "frc56"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 18, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc550", 
+          "frc369", 
+          "frc371"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm33", 
+    "match_number": 33, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "jCPuhIRKN5k", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm33.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 24, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1396", 
+          "frc334", 
+          "frc806"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 52, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc375", 
+          "frc354", 
+          "frc271"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm34", 
+    "match_number": 34, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "k37nJHqcPZ4", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "kculqEalOP4", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm34.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1211", 
+          "frc1989", 
+          "frc380"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 64, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1403", 
+          "frc395", 
+          "frc335"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm35", 
+    "match_number": 35, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "CpedRbarJEc", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm35.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 46, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc333", 
+          "frc41", 
+          "frc1302"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 2, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc571", 
+          "frc2274", 
+          "frc1635"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm36", 
+    "match_number": 36, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "NKUK-oXoGxk", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "5HWPcjoBoic", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm36.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 38, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2554", 
+          "frc1660", 
+          "frc1155"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 82, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1340", 
+          "frc348", 
+          "frc694"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm37", 
+    "match_number": 37, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "7uojw5X_hvw", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm37.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 64, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc637", 
+          "frc1594", 
+          "frc421"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc522", 
+          "frc1796", 
+          "frc1698"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm38", 
+    "match_number": 38, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "6osxY196VYQ", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "MqBOlN5B3j8", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm38.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 20, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1230", 
+          "frc1929", 
+          "frc743"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 42, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc555", 
+          "frc2205", 
+          "frc640"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm39", 
+    "match_number": 39, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "TfuYVdC8Goo", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "7BGpv1t4y2o", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm39.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 14, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc743", 
+          "frc2070", 
+          "frc759"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1635", 
+          "frc1403", 
+          "frc421"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm4", 
+    "match_number": 4, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "J2gb5V0GGQM", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "Ulnxja1yeYw", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm4.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 14, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2681", 
+          "frc229", 
+          "frc2203"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 20, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1520", 
+          "frc2579", 
+          "frc1880"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm40", 
+    "match_number": 40, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "12B72KP6cRo", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm40.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1626", 
+          "frc2596", 
+          "frc1602"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 40, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1807", 
+          "frc2265", 
+          "frc2524"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm41", 
+    "match_number": 41, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "T68jCfpNX1M", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "WI-_kZhT-wM", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm41.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 18, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1600", 
+          "frc2344", 
+          "frc2458"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 48, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1517", 
+          "frc2601", 
+          "frc1862"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm42", 
+    "match_number": 42, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "qZw2EfemhwE", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm42.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 36, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2070", 
+          "frc1237", 
+          "frc334"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2577", 
+          "frc2573", 
+          "frc371"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm43", 
+    "match_number": 43, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "FY64iRxHVJE", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm43.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc271", 
+          "frc335", 
+          "frc116"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 72, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1403", 
+          "frc571", 
+          "frc1302"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm44", 
+    "match_number": 44, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "P2iJ8XpFRj0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "ayBEa4CKcSY", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm44.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1340", 
+          "frc759", 
+          "frc1211"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 56, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc354", 
+          "frc694", 
+          "frc333"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm45", 
+    "match_number": 45, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "iS5JkeTsJr8", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm45.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 78, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc395", 
+          "frc348", 
+          "frc1796"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 46, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1635", 
+          "frc806", 
+          "frc369"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm46", 
+    "match_number": 46, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "vXGq_24KwQ4", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm46.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 48, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1989", 
+          "frc637", 
+          "frc56"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 36, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc375", 
+          "frc1155", 
+          "frc743"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm47", 
+    "match_number": 47, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "IUFcF2DR5fA", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm47.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 42, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc522", 
+          "frc229", 
+          "frc1880"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 12, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc380", 
+          "frc555", 
+          "frc1396"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm48", 
+    "match_number": 48, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "xCmhu_LVLDU", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm48.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 36, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc421", 
+          "frc2274", 
+          "frc2524"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 50, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1230", 
+          "frc640", 
+          "frc2203"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm49", 
+    "match_number": 49, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "i_uuzugNWcY", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm49.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 30, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc333", 
+          "frc335", 
+          "frc371"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 24, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1230", 
+          "frc1862", 
+          "frc806"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm5", 
+    "match_number": 5, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "shGRd9AirQg", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm5.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 42, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2681", 
+          "frc1602", 
+          "frc41"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 38, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1698", 
+          "frc1600", 
+          "frc1626"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm50", 
+    "match_number": 50, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "d_xIEmZVJ3Y", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm50.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 46, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2344", 
+          "frc1517", 
+          "frc2596"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 42, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2070", 
+          "frc1520", 
+          "frc1594"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm51", 
+    "match_number": 51, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "2G0Ae46rOTo", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm51.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 14, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2205", 
+          "frc1237", 
+          "frc550"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2458", 
+          "frc1660", 
+          "frc1862"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm52", 
+    "match_number": 52, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "ncRJIoJkxlE", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "VXXstf7AlQw", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm52.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 22, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2577", 
+          "frc2579", 
+          "frc2554"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1929", 
+          "frc2601", 
+          "frc1807"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm53", 
+    "match_number": 53, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "wZFIpXvqDMg", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm53.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 86, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2265", 
+          "frc116", 
+          "frc348"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 12, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2573", 
+          "frc271", 
+          "frc333"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm54", 
+    "match_number": 54, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "ppRjbI95zq4", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "jPyXpM561FA", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm54.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 62, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc335", 
+          "frc637", 
+          "frc1302"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 74, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc395", 
+          "frc759", 
+          "frc334"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm55", 
+    "match_number": 55, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "Nlx3pZNZf7g", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "8_O9aHCFu8Y", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm55.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 6, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc806", 
+          "frc571", 
+          "frc1796"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc380", 
+          "frc694", 
+          "frc56"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm56", 
+    "match_number": 56, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "n2B_x6JwB-o", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm56.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 62, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc555", 
+          "frc369", 
+          "frc2524"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 14, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1989", 
+          "frc1340", 
+          "frc421"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm57", 
+    "match_number": 57, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "-mOLnEcI78Q", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm57.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 62, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc640", 
+          "frc41", 
+          "frc371"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 42, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc229", 
+          "frc1211", 
+          "frc1155"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm58", 
+    "match_number": 58, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "wpkw7jjXUZ8", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm58.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1520", 
+          "frc1600", 
+          "frc1635"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 62, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc522", 
+          "frc1230", 
+          "frc375"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm59", 
+    "match_number": 59, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "qhcFngi8XhU", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm59.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1929", 
+          "frc2458", 
+          "frc1340"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 68, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc522", 
+          "frc116", 
+          "frc334"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm6", 
+    "match_number": 6, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "71olDZW33Mk", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm6.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc550", 
+          "frc2458", 
+          "frc1626"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 22, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2070", 
+          "frc2203", 
+          "frc1396"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm60", 
+    "match_number": 60, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "vxf8KRMW5rI", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "x1_iEJlC930", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm60.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 4, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1517", 
+          "frc1698", 
+          "frc743"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1660", 
+          "frc2577", 
+          "frc1807"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm61", 
+    "match_number": 61, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "Z1MV1gPvNRI", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm61.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 38, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2265", 
+          "frc2205", 
+          "frc2601"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 40, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2554", 
+          "frc1594", 
+          "frc354"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm62", 
+    "match_number": 62, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "Xfc2RCgsLww", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm62.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 38, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2596", 
+          "frc1403", 
+          "frc2573"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 14, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2274", 
+          "frc1862", 
+          "frc2681"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm63", 
+    "match_number": 63, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "E2-6v6OgJ3E", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm63.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 16, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1602", 
+          "frc1237", 
+          "frc1880"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 72, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1929", 
+          "frc2579", 
+          "frc2344"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm64", 
+    "match_number": 64, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "2QxH3CMIJoE", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm64.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 82, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc271", 
+          "frc395", 
+          "frc694"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 36, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc56", 
+          "frc333", 
+          "frc421"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm65", 
+    "match_number": 65, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "nsgsy4xg4ng", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm65.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 36, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1155", 
+          "frc334", 
+          "frc571"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 50, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc229", 
+          "frc369", 
+          "frc759"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm66", 
+    "match_number": 66, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 30, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc375", 
+          "frc1796", 
+          "frc116"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 54, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc41", 
+          "frc2524", 
+          "frc1211"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm67", 
+    "match_number": 67, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "Fp9BMvDs0jk", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm67.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 48, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc380", 
+          "frc348", 
+          "frc335"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 26, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1626", 
+          "frc2070", 
+          "frc640"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm68", 
+    "match_number": 68, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "zpvsAOoG0is", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm68.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 56, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1302", 
+          "frc555", 
+          "frc806"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 36, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1600", 
+          "frc1517", 
+          "frc550"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm69", 
+    "match_number": 69, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "i6-eNQRvOxE", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm69.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 2, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc380", 
+          "frc2205", 
+          "frc2573"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 72, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2203", 
+          "frc1807", 
+          "frc1155"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm7", 
+    "match_number": 7, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "C2DFkIW97ho", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "6JgeHb2g5C0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm7.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1807", 
+          "frc1520", 
+          "frc522"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 38, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2265", 
+          "frc371", 
+          "frc354"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm70", 
+    "match_number": 70, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "YKZptCuEGmg", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm70.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2274", 
+          "frc2573", 
+          "frc1594"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 14, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2458", 
+          "frc743", 
+          "frc1396"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm71", 
+    "match_number": 71, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "OFKrdhh8kfU", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm71.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1403", 
+          "frc1698", 
+          "frc2203"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 38, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1340", 
+          "frc1237", 
+          "frc2601"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm72", 
+    "match_number": 72, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "M8FBPbSCSa4", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm72.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 30, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2579", 
+          "frc1602", 
+          "frc1635"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 12, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc637", 
+          "frc2554", 
+          "frc1862"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm73", 
+    "match_number": 73, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "zJ2LSGusu70", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm73.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 48, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1660", 
+          "frc1989", 
+          "frc1230"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 16, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1929", 
+          "frc2596", 
+          "frc2681"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm74", 
+    "match_number": 74, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "sXsRwu3xP2k", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm74.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 58, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1880", 
+          "frc2344", 
+          "frc41"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 52, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2577", 
+          "frc2205", 
+          "frc56"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm75", 
+    "match_number": 75, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "mapdW3Ct05s", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "OY7h-o46YF8", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm75.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1796", 
+          "frc2524", 
+          "frc333"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 50, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc335", 
+          "frc229", 
+          "frc334"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm76", 
+    "match_number": 76, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "HY2B6hw2Nxs", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm76.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 74, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1155", 
+          "frc759", 
+          "frc1517"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 58, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc375", 
+          "frc1626", 
+          "frc395"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm77", 
+    "match_number": 77, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "sirjQj6OtNU", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "q7CXFbExvn4", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm77.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc421", 
+          "frc522", 
+          "frc354"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 62, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc550", 
+          "frc348", 
+          "frc571"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm78", 
+    "match_number": 78, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "gOTwZ1SJoMg", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm78.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 54, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc743", 
+          "frc271", 
+          "frc555"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 20, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2458", 
+          "frc371", 
+          "frc380"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm79", 
+    "match_number": 79, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "TrIIIQV8gB0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm79.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 24, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2524", 
+          "frc2681", 
+          "frc571"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 68, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc555", 
+          "frc2554", 
+          "frc395"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm8", 
+    "match_number": 8, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "RmZkChjQNfc", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "my3p7ZYTwic", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm8.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 24, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc694", 
+          "frc1600", 
+          "frc369"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 20, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1807", 
+          "frc1237", 
+          "frc1396"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm80", 
+    "match_number": 80, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "9lYOwEOsyDw", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm80.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 62, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc637", 
+          "frc640", 
+          "frc1340"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 28, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1520", 
+          "frc2573", 
+          "frc806"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm81", 
+    "match_number": 81, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "AXOW6Y0CyLQ", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm81.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 44, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2579", 
+          "frc1230", 
+          "frc2681"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 68, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1594", 
+          "frc1211", 
+          "frc1302"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm82", 
+    "match_number": 82, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "KI7ve1vjZ6o", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm82.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 6, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1635", 
+          "frc1660", 
+          "frc2203"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 66, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2265", 
+          "frc2344", 
+          "frc1403"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm83", 
+    "match_number": 83, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "1sRAIS-CV04", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm83.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 30, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2554", 
+          "frc2601", 
+          "frc1602"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 50, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1880", 
+          "frc2274", 
+          "frc2070"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm84", 
+    "match_number": 84, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "BRhiJb6YAI4", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm84.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 50, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1698", 
+          "frc2577", 
+          "frc1989"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 28, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc116", 
+          "frc2205", 
+          "frc1862"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm85", 
+    "match_number": 85, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "sOiRS1ojn3E", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm85.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 44, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1929", 
+          "frc522", 
+          "frc56"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 10, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2596", 
+          "frc335", 
+          "frc759"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm86", 
+    "match_number": 86, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "4S2xT6UR534", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm86.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 16, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2274", 
+          "frc1626", 
+          "frc1302"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 62, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2344", 
+          "frc1989", 
+          "frc694"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2008ny", 
+    "key": "2008ny_qm9", 
+    "match_number": 9, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "_fcId4aUP2c", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_qm9.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 64, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc395", 
+          "frc229", 
+          "frc271"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 92, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc555", 
+          "frc41", 
+          "frc1989"
+        ]
+      }
+    }, 
+    "comp_level": "sf", 
+    "event_key": "2008ny", 
+    "key": "2008ny_sf1m1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "b49iV7dd4bs", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_sf1m1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 60, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc229", 
+          "frc395", 
+          "frc271"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 84, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc41", 
+          "frc1989", 
+          "frc555"
+        ]
+      }
+    }, 
+    "comp_level": "sf", 
+    "event_key": "2008ny", 
+    "key": "2008ny_sf1m2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "hy2uUK6wqBI", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_sf1m2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 38, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2344", 
+          "frc1403", 
+          "frc694"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 86, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc375", 
+          "frc637", 
+          "frc348"
+        ]
+      }
+    }, 
+    "comp_level": "sf", 
+    "event_key": "2008ny", 
+    "key": "2008ny_sf2m1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 2, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "hVwaAX_-57A", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_sf2m1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 72, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc694", 
+          "frc1403", 
+          "frc2344"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 44, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc637", 
+          "frc348", 
+          "frc375"
+        ]
+      }
+    }, 
+    "comp_level": "sf", 
+    "event_key": "2008ny", 
+    "key": "2008ny_sf2m2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 2, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "KFquFtjf268", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "KhiGhbExmWk", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_sf2m2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 52, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2344", 
+          "frc1403", 
+          "frc694"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 56, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc637", 
+          "frc348", 
+          "frc375"
+        ]
+      }
+    }, 
+    "comp_level": "sf", 
+    "event_key": "2008ny", 
+    "key": "2008ny_sf2m3", 
+    "match_number": 3, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 2, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "7fmhi2midiE", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "9GiLVmI1Liw", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2008ny/2008ny_sf2m3.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }
+]

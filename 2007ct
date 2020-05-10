@@ -1,0 +1,4110 @@
+[
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 64, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc558", 
+          "frc1124", 
+          "frc195"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc176", 
+          "frc25", 
+          "frc2104"
+        ]
+      }
+    }, 
+    "comp_level": "f", 
+    "event_key": "2007ct", 
+    "key": "2007ct_f1m1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "5rzhO50_bR4", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_f1m1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 16, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1124", 
+          "frc558", 
+          "frc195"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 47, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc25", 
+          "frc2104", 
+          "frc176"
+        ]
+      }
+    }, 
+    "comp_level": "f", 
+    "event_key": "2007ct", 
+    "key": "2007ct_f1m2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "Fiwie-5NqWE", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_f1m2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 46, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc195", 
+          "frc558", 
+          "frc1124"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2104", 
+          "frc25", 
+          "frc176"
+        ]
+      }
+    }, 
+    "comp_level": "f", 
+    "event_key": "2007ct", 
+    "key": "2007ct_f1m3", 
+    "match_number": 3, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "2-lS9viRR28", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "oN2EHHZhbcM", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_f1m3.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc839", 
+          "frc157", 
+          "frc134"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 77, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2104", 
+          "frc25", 
+          "frc176"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qf1m1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "3NhpmAQvHdQ", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qf1m1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 10, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc157", 
+          "frc134", 
+          "frc839"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 26, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc176", 
+          "frc2104", 
+          "frc25"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qf1m2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "LCGuBCraTao", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qf1m2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 18, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc237", 
+          "frc1089", 
+          "frc549"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 24, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1685", 
+          "frc236", 
+          "frc177"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qf2m1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 2, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "wzLXzl-BLhk", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qf2m1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 36, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc237", 
+          "frc549", 
+          "frc1089"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc177", 
+          "frc236", 
+          "frc1685"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qf2m2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 2, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "4RLBMdOSQD0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qf2m2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 23, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc549", 
+          "frc1089", 
+          "frc237"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 66, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc236", 
+          "frc1685", 
+          "frc177"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qf2m3", 
+    "match_number": 3, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 2, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "qF2H9dEEnwo", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qf2m3.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 53, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1099", 
+          "frc1733", 
+          "frc173"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 76, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1493", 
+          "frc230", 
+          "frc20"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qf3m1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 3, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "h3QNRAZVlQM", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qf3m1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 38, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1733", 
+          "frc1099", 
+          "frc173"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 92, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc20", 
+          "frc230", 
+          "frc1493"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qf3m2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 3, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "Vc0DD-X3eno", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qf3m2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 64, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc195", 
+          "frc558", 
+          "frc1124"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 2, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc40", 
+          "frc716", 
+          "frc1027"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qf4m1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 4, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "IQV_xNMTtUA", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qf4m1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 96, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1124", 
+          "frc558", 
+          "frc195"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 12, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc716", 
+          "frc1027", 
+          "frc40"
+        ]
+      }
+    }, 
+    "comp_level": "qf", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qf4m2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 4, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "2pQ2dwARTvE", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qf4m2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 132, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1493", 
+          "frc521", 
+          "frc25"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc358", 
+          "frc20", 
+          "frc1373"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "QpxFfwk7Als", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "9LHkHi-S6rk", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2170", 
+          "frc1071", 
+          "frc157"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1665", 
+          "frc178", 
+          "frc905"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm10", 
+    "match_number": 10, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "PjN-7rGPO9c", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "kQZn8xQ11Ns", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm10.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": ""
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc40", 
+          "frc2105", 
+          "frc521"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc596", 
+          "frc237", 
+          "frc1685"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm11", 
+    "match_number": 11, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "tnyEcJvJrxE", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "BhXVT0xtETo", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "JJP4aIhurA0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm11.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 62, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1493", 
+          "frc181", 
+          "frc1099"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 16, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2064", 
+          "frc173", 
+          "frc558"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm12", 
+    "match_number": 12, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "JXREZPUj60A", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm12.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1124", 
+          "frc1784", 
+          "frc195"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 31, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc236", 
+          "frc2170", 
+          "frc596"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm13", 
+    "match_number": 13, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "eFzIrPmcl_o", 
+        "type": "youtube"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 16, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc809", 
+          "frc1733", 
+          "frc134"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 36, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc716", 
+          "frc177", 
+          "frc1665"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm14", 
+    "match_number": 14, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "Qf5e7JHSenM", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "euOkdJcM4zc", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm14.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 12, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc181", 
+          "frc521", 
+          "frc2064"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 88, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc549", 
+          "frc20", 
+          "frc1493"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm15", 
+    "match_number": 15, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "6y30GsqQ8F4", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm15.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 22, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc999", 
+          "frc2170", 
+          "frc195"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 54, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc178", 
+          "frc1373", 
+          "frc1089"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm16", 
+    "match_number": 16, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "48JQ-QkOl_k", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "chOWHUkhUGI", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm16.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc228", 
+          "frc1099", 
+          "frc1685"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc40", 
+          "frc1687", 
+          "frc358"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm17", 
+    "match_number": 17, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "Pu52_gw0r2E", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "iExP3ZcigY0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm17.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc549", 
+          "frc2067", 
+          "frc236"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1687", 
+          "frc228", 
+          "frc358"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm18", 
+    "match_number": 18, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "h15u-G7Kf_o", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "Om_hum5t32Y", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm18.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 16, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1995", 
+          "frc230", 
+          "frc999"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 23, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1991", 
+          "frc1027", 
+          "frc176"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm19", 
+    "match_number": 19, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "9C5MaTAQGig", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "v6OioJvf3sQ", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm19.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 35, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1665", 
+          "frc40", 
+          "frc549"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1685", 
+          "frc558", 
+          "frc134"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "XmGdSMtFPKA", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "aF8DAUsLwrQ", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 23, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc177", 
+          "frc558", 
+          "frc1733"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc716", 
+          "frc1373", 
+          "frc173"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm20", 
+    "match_number": 20, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc287", 
+          "frc809", 
+          "frc1740"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 4, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc571", 
+          "frc2104", 
+          "frc134"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm21", 
+    "match_number": 21, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc839", 
+          "frc2067", 
+          "frc25"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 54, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2168", 
+          "frc1089", 
+          "frc237"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm22", 
+    "match_number": 22, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc20", 
+          "frc2105", 
+          "frc558"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 6, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc181", 
+          "frc1699", 
+          "frc809"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm23", 
+    "match_number": 23, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 12, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc177", 
+          "frc1665", 
+          "frc596"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 23, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2064", 
+          "frc1099", 
+          "frc176"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm24", 
+    "match_number": 24, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 62, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc236", 
+          "frc1493", 
+          "frc1089"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 23, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc521", 
+          "frc195", 
+          "frc1991"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm25", 
+    "match_number": 25, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "3GJNQlZT99w", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm25.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 4, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1784", 
+          "frc549", 
+          "frc230"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 46, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc237", 
+          "frc1027", 
+          "frc1995"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm26", 
+    "match_number": 26, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "GiVHoLuhr4Y", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm26.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 20, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc358", 
+          "frc2104", 
+          "frc287"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 130, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1071", 
+          "frc40", 
+          "frc1685"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm27", 
+    "match_number": 27, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "pAvc9gWALCQ", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm27.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 5, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc134", 
+          "frc2170", 
+          "frc1124"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 128, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc716", 
+          "frc25", 
+          "frc1687"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm28", 
+    "match_number": 28, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "i2wr0hRfGTI", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm28.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 7, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc905", 
+          "frc1733", 
+          "frc178"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 16, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2168", 
+          "frc173", 
+          "frc839"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm29", 
+    "match_number": 29, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "21sQjH8eS5s", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm29.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 20, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1687", 
+          "frc571", 
+          "frc157"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 18, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc173", 
+          "frc596", 
+          "frc1699"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm3", 
+    "match_number": 3, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "UdJo9-ziYEM", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "cYRfsl-jYKI", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm3.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc157", 
+          "frc999", 
+          "frc1740"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc571", 
+          "frc2105", 
+          "frc228"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm30", 
+    "match_number": 30, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "uDxIRz9Ur_8", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm30.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": ""
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 64, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc236", 
+          "frc716", 
+          "frc1373"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 12, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1699", 
+          "frc237", 
+          "frc358"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm31", 
+    "match_number": 31, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "GxUY0lvlUZQ", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm31.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc20", 
+          "frc2067", 
+          "frc521"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 22, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc809", 
+          "frc2105", 
+          "frc195"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm32", 
+    "match_number": 32, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "woBrJEOq2xk", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm32.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 62, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2104", 
+          "frc839", 
+          "frc25"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 4, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc228", 
+          "frc596", 
+          "frc2168"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm33", 
+    "match_number": 33, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "amp682rnQNY", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "MkG6_OaOWX8", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm33.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 4, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1089", 
+          "frc287", 
+          "frc1784"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 64, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc134", 
+          "frc1071", 
+          "frc1699"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm34", 
+    "match_number": 34, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "OEAXM6heUvI", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "farcmTpiuEU", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm34.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 23, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1685", 
+          "frc558", 
+          "frc177"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 4, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1373", 
+          "frc549", 
+          "frc178"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm35", 
+    "match_number": 35, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "VjltjsFFBhw", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "Zm8GAbEVOMI", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm35.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc571", 
+          "frc181", 
+          "frc1995"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc173", 
+          "frc999", 
+          "frc1687"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm36", 
+    "match_number": 36, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "gXD-wLT7c14", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm36.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 51, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1733", 
+          "frc1099", 
+          "frc176"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 30, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1124", 
+          "frc157", 
+          "frc1991"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm37", 
+    "match_number": 37, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "gzCkyCfIVKI", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm37.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 62, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2170", 
+          "frc905", 
+          "frc230"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 68, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1740", 
+          "frc40", 
+          "frc1027"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm38", 
+    "match_number": 38, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "6F04Sizm2g8", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm38.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc195", 
+          "frc2067", 
+          "frc558"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc178", 
+          "frc1665", 
+          "frc358"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm39", 
+    "match_number": 39, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "UrC1cq0qMhI", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "18Yh6a8UQK0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm39.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 20, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc716", 
+          "frc176", 
+          "frc1733"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 4, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1740", 
+          "frc809", 
+          "frc177"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm4", 
+    "match_number": 4, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "pJBYDYVZxRU", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "hlSKgA2HaY8", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm4.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc177", 
+          "frc2064", 
+          "frc1027"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1493", 
+          "frc1124", 
+          "frc25"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm40", 
+    "match_number": 40, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "yx9sSPySHTE", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "wi0VKRpwwdA", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm40.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc173", 
+          "frc1089", 
+          "frc1784"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 17, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1733", 
+          "frc236", 
+          "frc839"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm41", 
+    "match_number": 41, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc230", 
+          "frc1373", 
+          "frc809"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 16, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc228", 
+          "frc571", 
+          "frc2105"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm42", 
+    "match_number": 42, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "vKaq4digd-U", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "BHbXcmW8gTE", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm42.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc999", 
+          "frc1687", 
+          "frc134"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 36, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1665", 
+          "frc549", 
+          "frc157"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm43", 
+    "match_number": 43, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "KRe7WATECU0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm43.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1685", 
+          "frc20", 
+          "frc1099"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 62, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc40", 
+          "frc596", 
+          "frc2104"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm44", 
+    "match_number": 44, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "fGDjtn37YD0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm44.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 64, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc237", 
+          "frc905", 
+          "frc1991"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 40, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc176", 
+          "frc2170", 
+          "frc521"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm45", 
+    "match_number": 45, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "KeeQGY7Vaq0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm45.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 16, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1071", 
+          "frc287", 
+          "frc1740"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc716", 
+          "frc181", 
+          "frc1493"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm46", 
+    "match_number": 46, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "IxSgLsYSWl8", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm46.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc549", 
+          "frc1995", 
+          "frc173"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc999", 
+          "frc2067", 
+          "frc134"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm47", 
+    "match_number": 47, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "9zWrdvQKB_k", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm47.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc839", 
+          "frc236", 
+          "frc2168"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 64, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc596", 
+          "frc40", 
+          "frc1699"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm48", 
+    "match_number": 48, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "qCTlYE0xvi0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "w70wh1Cry34", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm48.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 68, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1665", 
+          "frc1027", 
+          "frc20"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2064", 
+          "frc228", 
+          "frc558"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm49", 
+    "match_number": 49, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "C4thVc1BLx0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "sWujmPuEbX0", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm49.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 4, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1991", 
+          "frc905", 
+          "frc181"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 15, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1784", 
+          "frc178", 
+          "frc839"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm5", 
+    "match_number": 5, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "gmI9h3A0lvg", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "-YqdnvNpcFQ", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm5.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 20, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1071", 
+          "frc287", 
+          "frc1373"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 22, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc716", 
+          "frc176", 
+          "frc1493"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm50", 
+    "match_number": 50, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "5xoJZIc0tGY", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm50.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 2, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc809", 
+          "frc1699", 
+          "frc237"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc178", 
+          "frc1784", 
+          "frc1089"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm51", 
+    "match_number": 51, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "iDDr1XeH4Rk", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm51.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 316, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1991", 
+          "frc25", 
+          "frc358"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 2, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc905", 
+          "frc1740", 
+          "frc181"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm52", 
+    "match_number": 52, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "NrSurmD4HrE", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm52.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 6, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2105", 
+          "frc157", 
+          "frc521"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc177", 
+          "frc2067", 
+          "frc571"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm53", 
+    "match_number": 53, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2104", 
+          "frc230", 
+          "frc1099"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 52, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1124", 
+          "frc2064", 
+          "frc195"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm54", 
+    "match_number": 54, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 64, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1687", 
+          "frc25", 
+          "frc1089"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2170", 
+          "frc177", 
+          "frc358"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm55", 
+    "match_number": 55, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 94, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc40", 
+          "frc1685", 
+          "frc716"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc157", 
+          "frc2168", 
+          "frc596"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm56", 
+    "match_number": 56, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 15, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc839", 
+          "frc1733", 
+          "frc178"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 4, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1995", 
+          "frc181", 
+          "frc549"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm57", 
+    "match_number": 57, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1699", 
+          "frc195", 
+          "frc1099"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 72, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1124", 
+          "frc134", 
+          "frc2168"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm58", 
+    "match_number": 58, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 4, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1995", 
+          "frc558", 
+          "frc230"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 4, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc20", 
+          "frc521", 
+          "frc1687"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm59", 
+    "match_number": 59, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": ""
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 44, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1995", 
+          "frc999", 
+          "frc195"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 38, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1027", 
+          "frc2064", 
+          "frc228"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm6", 
+    "match_number": 6, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "sgAuK34JADw", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "tVTa4L1o2jI", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "qXSTUt3EU7A", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm6.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 4, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2067", 
+          "frc173", 
+          "frc999"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 44, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc809", 
+          "frc1740", 
+          "frc237"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm60", 
+    "match_number": 60, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 16, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1071", 
+          "frc1784", 
+          "frc287"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 12, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1991", 
+          "frc905", 
+          "frc236"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm61", 
+    "match_number": 61, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 38, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1027", 
+          "frc20", 
+          "frc1699"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 47, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc230", 
+          "frc839", 
+          "frc1733"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm62", 
+    "match_number": 62, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 2, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc571", 
+          "frc157", 
+          "frc1665"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 16, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1991", 
+          "frc905", 
+          "frc287"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm63", 
+    "match_number": 63, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 28, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2064", 
+          "frc25", 
+          "frc1071"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 64, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc176", 
+          "frc1124", 
+          "frc1685"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm64", 
+    "match_number": 64, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc558", 
+          "frc134", 
+          "frc2168"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 30, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc237", 
+          "frc1784", 
+          "frc596"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm65", 
+    "match_number": 65, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 20, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1099", 
+          "frc181", 
+          "frc2105"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 46, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc173", 
+          "frc1089", 
+          "frc1373"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm66", 
+    "match_number": 66, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 20, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc809", 
+          "frc1493", 
+          "frc230"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 64, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc358", 
+          "frc195", 
+          "frc1740"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm67", 
+    "match_number": 67, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 52, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc157", 
+          "frc571", 
+          "frc1995"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1071", 
+          "frc2104", 
+          "frc287"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm68", 
+    "match_number": 68, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 22, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1991", 
+          "frc549", 
+          "frc20"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc905", 
+          "frc228", 
+          "frc2067"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm69", 
+    "match_number": 69, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 40, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1071", 
+          "frc2067", 
+          "frc230"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 8, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc236", 
+          "frc2104", 
+          "frc1089"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm7", 
+    "match_number": 7, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "lBCROPdRbIo", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "JBK69VeloR4", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm7.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc25", 
+          "frc716", 
+          "frc2168"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 4, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc521", 
+          "frc40", 
+          "frc1784"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm70", 
+    "match_number": 70, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 5, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc839", 
+          "frc1687", 
+          "frc178"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 66, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1027", 
+          "frc177", 
+          "frc2064"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm71", 
+    "match_number": 71, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 16, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc999", 
+          "frc1995", 
+          "frc236"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 64, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1740", 
+          "frc176", 
+          "frc1124"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm72", 
+    "match_number": 72, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 20, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc230", 
+          "frc2105", 
+          "frc905"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc809", 
+          "frc25", 
+          "frc1733"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm73", 
+    "match_number": 73, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 4, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc287", 
+          "frc1665", 
+          "frc1027"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 58, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc999", 
+          "frc1699", 
+          "frc236"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm74", 
+    "match_number": 74, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 54, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1685", 
+          "frc716", 
+          "frc40"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 7, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc176", 
+          "frc521", 
+          "frc2170"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm75", 
+    "match_number": 75, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 77, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc558", 
+          "frc134", 
+          "frc1493"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2104", 
+          "frc1099", 
+          "frc195"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm76", 
+    "match_number": 76, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 76, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1373", 
+          "frc1089", 
+          "frc181"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 23, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc228", 
+          "frc1493", 
+          "frc549"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm77", 
+    "match_number": 77, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 36, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1124", 
+          "frc287", 
+          "frc2168"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 46, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc237", 
+          "frc2105", 
+          "frc1099"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm8", 
+    "match_number": 8, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "Tz-PBmhgVEA", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "I2fMTkMYHcs", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm8.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 19, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc571", 
+          "frc2104", 
+          "frc176"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 4, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1027", 
+          "frc228", 
+          "frc2170"
+        ]
+      }
+    }, 
+    "comp_level": "qm", 
+    "event_key": "2007ct", 
+    "key": "2007ct_qm9", 
+    "match_number": 9, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "yvZ6scPnEro", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "7FcCiLU_PIs", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_qm9.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 12, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc177", 
+          "frc1685", 
+          "frc236"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 38, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc176", 
+          "frc2104", 
+          "frc25"
+        ]
+      }
+    }, 
+    "comp_level": "sf", 
+    "event_key": "2007ct", 
+    "key": "2007ct_sf1m1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "EjYrCSL1LW4", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_sf1m1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc236", 
+          "frc177", 
+          "frc1685"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc2104", 
+          "frc25", 
+          "frc176"
+        ]
+      }
+    }, 
+    "comp_level": "sf", 
+    "event_key": "2007ct", 
+    "key": "2007ct_sf1m2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "3LE9pRIPhQk", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_sf1m2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": ""
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 34, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc177", 
+          "frc1685", 
+          "frc236"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 56, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc25", 
+          "frc2104", 
+          "frc176"
+        ]
+      }
+    }, 
+    "comp_level": "sf", 
+    "event_key": "2007ct", 
+    "key": "2007ct_sf1m3", 
+    "match_number": 3, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 1, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "zAeu8ZnjSt4", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_sf1m3.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 47, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc1124", 
+          "frc195", 
+          "frc558"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 64, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc20", 
+          "frc1493", 
+          "frc230"
+        ]
+      }
+    }, 
+    "comp_level": "sf", 
+    "event_key": "2007ct", 
+    "key": "2007ct_sf2m1", 
+    "match_number": 1, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 2, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "rNNGd0Bf6FA", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "Wo29No94Yzs", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_sf2m1.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "red"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 52, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc558", 
+          "frc195", 
+          "frc1124"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 32, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc230", 
+          "frc1493", 
+          "frc20"
+        ]
+      }
+    }, 
+    "comp_level": "sf", 
+    "event_key": "2007ct", 
+    "key": "2007ct_sf2m2", 
+    "match_number": 2, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 2, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "c9eqAjSKxcA", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "Ju23imfwqqQ", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_sf2m2.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }, 
+  {
+    "actual_time": null, 
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [], 
+        "score": 158, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc558", 
+          "frc1124", 
+          "frc195"
+        ]
+      }, 
+      "red": {
+        "dq_team_keys": [], 
+        "score": 0, 
+        "surrogate_team_keys": [], 
+        "team_keys": [
+          "frc230", 
+          "frc1493", 
+          "frc20"
+        ]
+      }
+    }, 
+    "comp_level": "sf", 
+    "event_key": "2007ct", 
+    "key": "2007ct_sf2m3", 
+    "match_number": 3, 
+    "post_result_time": null, 
+    "predicted_time": null, 
+    "score_breakdown": null, 
+    "set_number": 2, 
+    "time": null, 
+    "videos": [
+      {
+        "key": "F2wE6tj4TWw", 
+        "type": "youtube"
+      }, 
+      {
+        "key": "http://videos.thebluealliance.net/2007ct/2007ct_sf2m3.flv", 
+        "type": "tba"
+      }
+    ], 
+    "winning_alliance": "blue"
+  }
+]
